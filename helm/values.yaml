@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nginx
+  repository: swr.cn-east-2.myhuaweicloud.com/zhenyun-open/nginx
   pullPolicy: IfNotPresent
   tag: "latest"
 
